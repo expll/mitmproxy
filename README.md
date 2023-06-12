@@ -1,7 +1,7 @@
 # mitmproxy  安装启动
 ```
 pip install mitmproxy
-mitmproxy -s imoocscrapy/utils/Home.py --mode regular@8082
+mitmproxy -s Home.py --mode regular@8082
 ```
 
 # 处理请求响应
