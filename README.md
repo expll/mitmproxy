@@ -3,7 +3,7 @@
 pip install mitmproxy
 mitmproxy -s Home.py --mode regular@8082
 ```
-注意端口需要在系统指定
+注意端口需要在系统指定， 一般使用58591端口
 
 # 处理请求响应
 
